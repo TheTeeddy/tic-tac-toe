@@ -1,0 +1,13 @@
+@import 'tailwindcss';
+* {
+  box-sizing: border-box;
+  font-family: 'Open sans';
+}
+
+@theme {
+  --color-basegray: #424b54;
+  --color-lavender: #eee5e9;
+  --color-primary: #bce7fd;
+  --color-secondary: #c492b1;
+  --color-draw: #657ed4;
+}
